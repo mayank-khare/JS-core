@@ -1,5 +1,12 @@
-# JS-core
+# Welcome to JS Core Repo
 
-JS core concepts
+Hi! This Repo is based on JavaScript Core and Advanced challenges.
 
-This Repo is meant for JS core and Advanced concepts code
+# Files
+
+Files are named as per the JS concept or the challege.
+To execute download/clone the repo and use either of the JS runtime environments for running the programs.
+
+## Running on node
+
+- node file-name.js
